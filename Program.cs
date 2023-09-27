@@ -8,7 +8,6 @@ string dricka = Console.ReadLine();
 Console.WriteLine("Det var en gång en " + färg + " " + djur + "." + " Han drack " + dricka + " om dagarna.");
 Console.ReadLine();
 
-
 Console.OutputEncoding = System.Text.Encoding.Unicode;
 Console.InputEncoding = System.Text.Encoding.Unicode;
 
@@ -18,6 +17,8 @@ Console.WriteLine("⣿⣿⣿⢿⣿⣻⣟⣿⣻⣟⣿⣻⣟⣿⣻⣟⣿⣻⣟⣿�
 
 
 Console.WriteLine("Hello, World!");
+
+Console.WriteLine("                 ,#####,\r\n                 #_   _#\r\n                 |a` `a|\r\n                 |  u  |\r\n                 \\  =  /\r\n                 |\\___/|\r\n        ___ ____/:     :\\____ ___\r\n      .'   `.-===-\\   /-===-.`   '.\r\n     /      .-\"\"\"\"\"-.-\"\"\"\"\"-.      \\\r\n    /'             =:=             '\\\r\n  .'  ' .:    o   -=:=-   o    :. '  `.\r\n  (.'   /'. '-.....-'-.....-' .'\\   '.)\r\n  /' ._/   \".     --:--     .\"   \\_. '\\\r\n |  .'|      \".  ---:---  .\"      |'.  |\r\n |  : |       |  ---:---  |       | :  |\r\n  \\ : |       |_____._____|       | : /\r\n  /   (       |----|------|       )   \\\r\n /... .|      |    |      |      |. ...\\\r\n|::::/'' jgs /     |       \\     ''\\::::|\r\n'\"\"\"\"       /'    .L_      `\\       \"\"\"\"'\r\n           /'-.,__/` `\\__..-'\\\r\n          ;      /     \\      ;\r\n          :     /       \\     |\r\n          |    /         \\.   |\r\n          |`../           |  ,/\r\n          ( _ )           |  _)\r\n          |   |           |   |\r\n          |___|           \\___|\r\n          :===|            |==|\r\n           \\  /            |__|\r\n           /\\/\\           /\"\"\"`8.__\r\n           |oo|           \\__.//___)\r\n           |==|\r\n           \\__/");
 
 string dreamTeam = "<3";
 Console.WriteLine($"TJENA GRUPPEN {dreamTeam} ");

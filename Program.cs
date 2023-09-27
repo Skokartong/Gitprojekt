@@ -7,10 +7,6 @@ string dricka = Console.ReadLine();
 
 Console.WriteLine("Det var en gång en " + färg + " " + djur + "." + " Han drack " + dricka + " om dagarna.");
 Console.ReadLine();
-=======
-﻿// See https://aka.ms/new-console-template for more information
-
-<<<<<<< HEAD
 
 Console.OutputEncoding = System.Text.Encoding.Unicode;
 Console.InputEncoding = System.Text.Encoding.Unicode;

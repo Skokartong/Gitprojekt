@@ -8,6 +8,24 @@ string dricka = Console.ReadLine();
 Console.WriteLine("Det var en gång en " + färg + " " + djur + "." + " Han drack " + dricka + " om dagarna.");
 Console.ReadLine();
 
+<<<<<<< HEAD
+Console.WriteLine("Vill du fortsätta?? Y/N");
+string answer = Console.ReadLine();
+
+if (answer == "Y")
+{
+    Console.WriteLine("Roligt, här har du lite fin art a la Faddy");
+
+}
+else
+{
+    Console.WriteLine("Ingen bryr sig, här kommer Faddy konst!!!!!!");
+}
+    
+Console.ReadLine();
+
+=======
+>>>>>>> 49a3c2b115a073d5ac9bf0d983c7af39167251e3
 Console.OutputEncoding = System.Text.Encoding.Unicode;
 Console.InputEncoding = System.Text.Encoding.Unicode;
 

@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Säg ett djur");
+﻿Console.WriteLine("  _______ ___ ___ ___     ___     _______ \r\n |   _   |   Y   |   |   |   |   |   _   |\r\n |.  1   |.  |   |.  |   |.  |   |.  1   |\r\n |.  ____|.  |   |.  |___|.  |___|.  _   |\r\n |:  |   |:  1   |:  1   |:  1   |:  |   |\r\n |::.|   |::.. . |::.. . |::.. . |::.|:. |\r\n `---'   `-------`-------`-------`--- ---'");
+
+Console.WriteLine("Säg ett djur");
 string djur = Console.ReadLine();
 Console.WriteLine("Säg en färg");
 string färg = Console.ReadLine();
@@ -7,6 +9,7 @@ string dricka = Console.ReadLine();
 
 Console.WriteLine("Det var en gång en " + färg + " " + djur + "." + " Han drack " + dricka + " om dagarna.");
 Console.ReadLine();
+
 
 Console.WriteLine("Vill du fortsätta?? Y/N");
 string answer = Console.ReadLine();
@@ -22,6 +25,7 @@ else
 }
     
 Console.ReadLine();
+
 
 Console.OutputEncoding = System.Text.Encoding.Unicode;
 Console.InputEncoding = System.Text.Encoding.Unicode;
